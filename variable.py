@@ -1,0 +1,9 @@
+a=10
+print(a)
+b=4132
+print(a*b)
+c=10
+d=20
+print(c/d)
+print(d-c)
+print(a+b+c+d)
